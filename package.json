@@ -1,0 +1,22 @@
+{
+  "name": "presentation-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoptohlejepeta/Presentation-template.git"
+  },
+  "author": "yoptohlejepeta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoptohlejepeta/Presentation-template/issues"
+  },
+  "homepage": "https://github.com/yoptohlejepeta/Presentation-template#readme",
+  "dependencies": {
+    "reveal.js": "^5.0.5"
+  }
+}
