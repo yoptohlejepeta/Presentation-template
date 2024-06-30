@@ -1,5 +1,4 @@
 Reveal.initialize({
-    plugins: [RevealMarkdown],
     width: 800,
     height: 600,
     transition: 'slide', // Transition effect
@@ -11,6 +10,6 @@ Reveal.initialize({
     history: true, // Enable history API
     center: true, // Center vertically each slide
     mouseWheel: true, // Enable mouse wheel navigation
-    view: 'scroll',
-    scrollProgress: true
+    // view: 'scroll',
+    // scrollProgress: true,
 });
